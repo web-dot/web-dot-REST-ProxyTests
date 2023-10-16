@@ -1,0 +1,56 @@
+<div class="col-md-12 container">
+    <div class="col-md-6">
+      <div class="unit">
+        <p>Spring - POST - @PathVariable - string name</p>
+        <button class="button" (click)="sendRequest(name)">POST</button>
+      </div>
+      <br>
+      <div class="unit">
+        <p>Jersey - POST - @QueryParam - string id</p>
+        <button class="button" (click)="downloadDocument(customerId)">POST</button>
+      </div>
+      <br>
+      <div class="unit">
+        <p>Jersey -GET - @QueryParam - string customerId -> returns object</p>
+        <button class="button" (click)="getCustomer(customerId)">GET</button>
+        <p><small>Get object based on id</small></p>
+      </div>
+      <div class="unit">
+        <p>Jersey -> GET request for studentDataConfiguration object</p>
+        <button class="button" (click)="studentDataConfiguration()">GET</button>
+        <p><small>Get object</small></p>
+      </div>
+      <br>
+      <div class="group">
+        <p>Jersey -> GET request get master template list</p>
+        <button class="button" (click)="getFeeComponents()">GET</button>
+        <p><small>Get List</small></p>
+        <p>Jersey -> GET - @QueryParam(string feeTemplateId), @QueryParam(string feeComponent) - returns status</p>
+        <button class="button" (click)="deleteComponentById()">GET</button>
+        <p><small>Delete by Id</small></p>
+      </div>
+    </div>
+  <div class="col-md-6">
+    <div class="unit">
+      <p>Jersey -> GET - @QueryParam(string degreeId) returns DegreeWiseAcademicYear object</p>
+      <button class="button" (click)="getdegreeeWiseAcademicYear(degreeId)">GET</button>
+      <p><small>Get academic years based on degreeId</small></p>
+    </div>
+    <div class="unit">
+      <p>Jersey -> GET - @QueryParam(string userType, string employmentType) returns list of LeaveCatagoryDetail object</p>
+      <button class="button" (click)="getAllLeaveCatagories()">GET</button>
+      <p><small>Get object list</small></p>
+    </div>
+    <div class="unit">
+      <p>Jersey -> GET - @QueryParam(string userType, string employmentType) returns list of LeaveCatagoryDetail object</p>
+      <button class="button" (click)="saveApprovers()">GET</button>
+      <p><small>Get object list</small></p>
+    </div>
+  </div>
+  </div>
+  <div class="col-md-6">
+    <div>
+      <button class="button" (click)="featureWithApi()">UI Feature and Proxy APIs</button>
+    </div>
+  </div>
+  

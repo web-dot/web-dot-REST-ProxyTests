@@ -1,0 +1,510 @@
+Request ID: d7d100ae-ebba-4a91-8e4f-9dbb2e97fc39
+Timestamp: Sat Sep 30 17:11:16 IST 2023
+Method: GET
+RequestUrl: /jersey
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 3790c0aa-f49b-4510-b7c9-642f9b3bebe7
+Timestamp: Sat Sep 30 17:11:38 IST 2023
+Method: POST
+RequestUrl: /jersey
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 23eafc05-178b-4776-a251-470b85eb9f2b
+Timestamp: Sat Sep 30 17:11:48 IST 2023
+Method: POST
+RequestUrl: /jersey
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: b76cef11-d4ed-4900-bd78-fc92ab4012a7
+Timestamp: Sat Sep 30 17:11:48 IST 2023
+Method: POST
+RequestUrl: /jersey
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: d715ef6b-2fd6-4cdd-b293-7e7973c5f740
+Timestamp: Sat Sep 30 17:11:48 IST 2023
+Method: POST
+RequestUrl: /jersey
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 84c51ad4-8f74-4e01-b935-14f46940b48e
+Timestamp: Sat Sep 30 17:11:49 IST 2023
+Method: POST
+RequestUrl: /jersey
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: ddcd80cb-7da3-42f3-bc77-fc115dd37249
+Timestamp: Sat Sep 30 17:11:50 IST 2023
+Method: GET
+RequestUrl: /jersey
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 194092f4-7eac-4e05-b6fc-40aa3677d1b8
+Timestamp: Sat Sep 30 17:11:50 IST 2023
+Method: GET
+RequestUrl: /jersey
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 7b451793-b767-4d6b-a4f3-5cc6a25b52a7
+Timestamp: Sat Sep 30 17:11:50 IST 2023
+Method: GET
+RequestUrl: /jersey
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: fc8707a0-9a68-4143-bb50-36c547b6ef7d
+Timestamp: Sat Sep 30 17:11:50 IST 2023
+Method: GET
+RequestUrl: /jersey
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: be64edf4-ea00-4f6f-906a-f821362458d3
+Timestamp: Tue Oct 03 18:33:56 IST 2023
+Method: OPTIONS
+RequestUrl: /jersey/tests/getCustomer
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: c1df11f1-89c8-4f95-8824-b09801a0a817
+Timestamp: Tue Oct 03 18:33:56 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/getCustomer
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: a09ae48e-d1ef-4985-a09d-8d860bc2062d
+Timestamp: Tue Oct 03 19:24:42 IST 2023
+Method: OPTIONS
+RequestUrl: /jersey/tests/getstudentdataconfiguration
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 15199b19-790b-4ced-94eb-d39c3c1e320a
+Timestamp: Tue Oct 03 19:27:46 IST 2023
+Method: OPTIONS
+RequestUrl: /jersey/tests/getstudentdataconfiguration
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 10176867-778a-4d40-9d7b-ec85d9a4bbd5
+Timestamp: Tue Oct 03 19:27:46 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/getstudentdataconfiguration
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 5ebe76dd-9fa6-445a-8a03-bc68a72c837c
+Timestamp: Wed Oct 04 18:02:33 IST 2023
+Method: OPTIONS
+RequestUrl: /jersey/tests/getstudentdataconfiguration
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: a80284fe-f8d8-48e9-a2bd-47621e3afc32
+Timestamp: Wed Oct 04 18:02:34 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/getstudentdataconfiguration
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 4080eb68-8c22-4d2e-9d0d-1c532a4b1d6e
+Timestamp: Wed Oct 04 18:03:10 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/getstudentdataconfiguration
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: d712ed13-9cda-4744-b6d3-5622ca68e534
+Timestamp: Wed Oct 04 18:04:01 IST 2023
+Method: OPTIONS
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: abe4b473-77f3-4601-b4f8-161f83b3f0a3
+Timestamp: Wed Oct 04 18:04:01 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: b21bf2c3-d932-4427-bb21-ae4a2458ce7c
+Timestamp: Wed Oct 04 18:04:14 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 42223e69-9818-47eb-b7dc-c323c2bdf0b3
+Timestamp: Thu Oct 05 13:50:52 IST 2023
+Method: OPTIONS
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 285d522e-a580-4745-871b-fc38817805c9
+Timestamp: Thu Oct 05 13:50:52 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 6846e771-0c2d-4d50-a86c-892c6655b3ee
+Timestamp: Thu Oct 05 18:41:52 IST 2023
+Method: OPTIONS
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 777e75d8-9f9c-42f6-8e0d-4b1a18fb1704
+Timestamp: Thu Oct 05 18:41:52 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 3b8675b3-cc90-44fb-8305-6b26f87b57a5
+Timestamp: Thu Oct 05 18:45:17 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: f43ad9fd-b7ad-4a10-bf36-383ea78167ba
+Timestamp: Thu Oct 05 18:51:42 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 469ff3f1-e8d0-43c1-b18a-c01955d7b5de
+Timestamp: Thu Oct 05 18:52:48 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 068107e4-388a-4743-8af3-f58a6efae7c7
+Timestamp: Thu Oct 05 18:57:12 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: f205e8f0-165b-40ab-b030-ea0098c9005b
+Timestamp: Thu Oct 05 18:59:01 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: decd08da-7690-493e-a422-4b3ce96ad063
+Timestamp: Thu Oct 05 18:59:44 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 67094e77-a87e-4076-b7c0-05e443886275
+Timestamp: Thu Oct 05 19:03:12 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 7e381017-e459-480d-bc0b-754ce4d703cd
+Timestamp: Thu Oct 05 19:15:06 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: f392e2bc-1c76-4eb3-b079-627554903d7a
+Timestamp: Thu Oct 05 19:34:18 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 1ca84ede-a136-49f4-b1e5-845118296dc0
+Timestamp: Thu Oct 05 19:35:59 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 3d9a50bf-d068-4c67-8e12-7a5bb5a8b113
+Timestamp: Thu Oct 05 19:41:29 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 24284fd8-08bb-4212-87b8-4b2d7a52c99e
+Timestamp: Fri Oct 06 11:19:01 IST 2023
+Method: OPTIONS
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: b90db7e7-9890-4efa-9255-8ee8d52a05d3
+Timestamp: Fri Oct 06 11:19:01 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: b3f1d392-9928-4b04-be22-4dd5ab5741bc
+Timestamp: Fri Oct 06 12:38:41 IST 2023
+Method: OPTIONS
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: cbeb8887-92c9-4c60-8fdb-da558f580923
+Timestamp: Fri Oct 06 12:38:41 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: fbacea6b-988a-422d-b713-39379f8035ed
+Timestamp: Fri Oct 06 15:34:01 IST 2023
+Method: OPTIONS
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 8c6845a0-c806-4e62-9b70-30e6db8fc65a
+Timestamp: Fri Oct 06 15:34:01 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 000c6241-15bd-4f4b-a78f-b9048b413058
+Timestamp: Fri Oct 06 16:10:50 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: ddfc6937-1ef2-4164-8763-7e3bdab35ef1
+Timestamp: Fri Oct 06 16:10:53 IST 2023
+Method: OPTIONS
+RequestUrl: /jersey/tests/getstudentdataconfiguration
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: f410d0dd-80aa-4b07-b612-556960b29efa
+Timestamp: Fri Oct 06 16:10:53 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/getstudentdataconfiguration
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: dace4fe6-5473-4b13-aed7-84ea37b80881
+Timestamp: Fri Oct 06 16:12:06 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/getstudentdataconfiguration
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 4e443b13-5dc4-475f-9330-3f0be7fe7180
+Timestamp: Fri Oct 06 16:13:20 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/getstudentdataconfiguration
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: b28054f5-d8dc-4cc0-8432-8c109f2cf862
+Timestamp: Fri Oct 06 16:16:38 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: e5522455-27d3-42e5-bc35-27a89f8b4b1d
+Timestamp: Fri Oct 06 16:16:49 IST 2023
+Method: OPTIONS
+RequestUrl: /jersey/tests/delete-component-by-id
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 166063fd-b628-40e6-9808-544ba692cada
+Timestamp: Fri Oct 06 16:16:49 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/delete-component-by-id
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 15b63b51-55bf-4808-831f-dd5bd4349791
+Timestamp: Fri Oct 06 16:18:37 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: e40f6fc0-4f37-4880-9f8e-98a75e99041b
+Timestamp: Fri Oct 06 16:18:42 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/delete-component-by-id
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 9c0d0bb0-e808-4602-820a-049b614a28e7
+Timestamp: Fri Oct 06 16:21:28 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 2964fad3-1d91-46ff-8f01-539de8318871
+Timestamp: Fri Oct 06 16:21:32 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/delete-component-by-id
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: cd6e5e86-6092-4003-af94-153904f34d0c
+Timestamp: Fri Oct 06 16:23:26 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: f11aeb75-b307-48f0-98fd-6c72235a691d
+Timestamp: Fri Oct 06 16:24:15 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 79bde098-2701-4d4b-bcc2-6f77a5a8083d
+Timestamp: Fri Oct 06 16:24:28 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/delete-component-by-id
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 40aaa459-d276-4e2a-99fd-8ff3d5e1c76d
+Timestamp: Fri Oct 06 16:26:44 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/delete-component-by-id
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: b5b2d6c6-5d97-4211-84cd-646ba96b3849
+Timestamp: Fri Oct 06 16:27:33 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 3201a538-f53c-40ad-981f-5d2468e9c60d
+Timestamp: Fri Oct 06 16:27:35 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/delete-component-by-id
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 4caa225b-b555-4c7b-a973-be827fe239a7
+Timestamp: Fri Oct 06 16:28:49 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 9761a27a-eeff-4e5f-b6a7-e0332f08d43c
+Timestamp: Fri Oct 06 16:28:51 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/delete-component-by-id
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: f3e1ee02-974b-49e0-8c9f-43a61386bebd
+Timestamp: Fri Oct 06 16:30:49 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/findall
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 3b55ded8-02df-45aa-b7bf-cf9b7f6514cb
+Timestamp: Fri Oct 06 16:30:51 IST 2023
+Method: OPTIONS
+RequestUrl: /jersey/tests/delete-component-by-id
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 02adb055-ae47-4f97-a18d-a9d218657923
+Timestamp: Fri Oct 06 16:30:51 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/delete-component-by-id
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: e467b020-9346-43ca-a7e4-c0d5b72cf97d
+Timestamp: Mon Oct 09 18:37:37 IST 2023
+Method: OPTIONS
+RequestUrl: /jersey/tests/getdegreeWiseacademicyearbydegreeid
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 3578a685-dee3-4261-b00c-56639c9fb9fa
+Timestamp: Mon Oct 09 18:37:37 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/getdegreeWiseacademicyearbydegreeid
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 217d4996-861d-4a24-aa8e-b3c794592457
+Timestamp: Mon Oct 09 18:38:24 IST 2023
+Method: OPTIONS
+RequestUrl: /jersey/tests/getdegreeWiseacademicyearbydegreeid
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 6c4b2a7a-8d7c-4df7-b4d6-30450b7f82be
+Timestamp: Mon Oct 09 18:38:24 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/getdegreeWiseacademicyearbydegreeid
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 3155deca-95d9-4b8c-8412-ddca83dc32d8
+Timestamp: Mon Oct 09 18:39:32 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/getdegreeWiseacademicyearbydegreeid
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 006a4bd9-bdbb-45fd-b033-7c02d8cbc9a9
+Timestamp: Mon Oct 09 18:40:15 IST 2023
+Method: OPTIONS
+RequestUrl: /jersey/tests/getdegreeWiseacademicyearbydegreeid
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 35e7e27b-4ee4-4408-bb02-29d4be4cf241
+Timestamp: Mon Oct 09 18:40:15 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/getdegreeWiseacademicyearbydegreeid
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 51e8c43c-fa24-4c52-b1e9-0cc68fe5b3b9
+Timestamp: Mon Oct 09 18:40:47 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/getdegreeWiseacademicyearbydegreeid
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: b483695d-7582-40bc-9b20-e45ce095c214
+Timestamp: Mon Oct 09 18:41:59 IST 2023
+Method: OPTIONS
+RequestUrl: /jersey/tests/getdegreeWiseacademicyearbydegreeid
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 87056523-467c-4795-9f8d-0b8a0420fe98
+Timestamp: Mon Oct 09 18:41:59 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/getdegreeWiseacademicyearbydegreeid
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: ec6ae7d9-dc62-41d6-a2ca-3b2e239de055
+Timestamp: Mon Oct 09 18:45:05 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/getdegreeWiseacademicyearbydegreeid
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 083738dc-741a-4035-a2ec-6017d4c7f496
+Timestamp: Wed Oct 11 21:34:02 IST 2023
+Method: OPTIONS
+RequestUrl: /jersey/tests/leavecategories
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: e5a705d6-c356-4ac8-8bcf-3ad10884ac7b
+Timestamp: Wed Oct 11 21:34:02 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/leavecategories
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: bdf68893-1ebe-4d68-8ff2-c80e87301ef2
+Timestamp: Wed Oct 11 21:35:15 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/leavecategories
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 45995181-e559-4f3d-b24a-4ebefd47c217
+Timestamp: Wed Oct 11 21:38:03 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/leavecategories
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 43352a39-894b-479b-9eb8-fff8d12e7407
+Timestamp: Wed Oct 11 21:43:34 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/leavecategories
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 0513e4c4-f339-4b23-8d0b-80ffe2bbd4b8
+Timestamp: Wed Oct 11 21:45:13 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/leavecategories
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 4180f569-096f-4ddc-8f19-cd4e46d3bd81
+Timestamp: Wed Oct 11 21:45:51 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/leavecategories
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 77a87175-86dc-4156-a007-e70a7047c976
+Timestamp: Wed Oct 11 21:48:02 IST 2023
+Method: OPTIONS
+RequestUrl: /jersey/tests/leavecategories
+Remote Address: 0:0:0:0:0:0:0:1
+
+Request ID: 114580d8-a198-4912-b564-902c05c78a31
+Timestamp: Wed Oct 11 21:48:02 IST 2023
+Method: GET
+RequestUrl: /jersey/tests/leavecategories
+Remote Address: 0:0:0:0:0:0:0:1
+
